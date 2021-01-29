@@ -1,1 +1,1 @@
-# StudyProject
+# AccountBook project study
